@@ -1,0 +1,8 @@
+{
+  "n_weights_mlp": 81,
+  "finite_hypothesis_grid_size": 16,
+  "m_required_finite_bound_eps0.1_delta0.05": 57.68320995793772,
+  "vc_dim_estimate": 1027.0557004673092,
+  "m_required_vc_bound_eps0.1_delta0.05": 577201.9085757176,
+  "dataset_size": 768
+}
